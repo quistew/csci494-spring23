@@ -5,6 +5,12 @@ from torchvision import datasets
 from torchvision.transforms import ToTensor
 
 ########################################
+# @student Eli Quist
+# This code is from a tutorial, which can be found here: 
+# https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+########################################
+
+########################################
 # Working with data
 ########################################
 
